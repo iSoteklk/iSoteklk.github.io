@@ -1,0 +1,232 @@
+<html>
+
+    <title>iSotek</title>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>iSotek</title>
+
+            <link rel="stylesheet" href="css/bootstrap.min.css"> 
+           
+            
+            <style>
+            body { background: black !important;
+              background:url(assets/bg.jpg) no-repeat center center fixed !important;
+                 
+                 -webkit-background-size: cover;
+              -moz-background-size: cover;
+              -o-background-size: cover;
+               background-size: cover;
+            
+            }
+
+           
+
+
+            .navbar.transparent.navbar-inverse .navbar-inner {
+              background: rgba(0,0,0,0.4);
+            }
+
+
+            .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+               color  :#b30000 !important;
+
+
+               }
+
+
+               .jumbotron-fluid{
+                position: relative;
+                 top: 250px !important;
+                 color: aliceblue;
+               }
+
+
+               #main-tile{
+                 position: absolute;
+                  top:400px;
+                  left:450px;
+                  align-self: center;
+               }
+
+               
+
+                .scroll-downs {
+                position: absolute;
+                top: 700px;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                margin: auto;
+                
+                width :34px;
+                height: 55px;
+              }
+              .mousey {
+                width: 3px;
+                padding: 10px 15px;
+                height: 35px;
+                border: 2px solid #b30000;
+                border-radius: 25px;
+                opacity: 0.75;
+                box-sizing: content-box;
+              }
+              .scroller {
+                width: 3px;
+                height: 10px;
+                border-radius: 25%;
+                background-color: #b30000;
+                animation-name: scroll;
+                animation-duration: 2.2s;
+                animation-timing-function: cubic-bezier(.15,.41,.69,.94);
+                animation-iteration-count: infinite;
+              }
+              @keyframes scroll {
+                0% { opacity: 0; }
+                10% { transform: translateY(0); opacity: 1; }
+                100% { transform: translateY(15px); opacity: 0;}
+              }
+
+
+
+               
+
+
+
+
+
+              .button {
+                display: inline-block;
+                border-radius: 3px;
+                background-color: #b30000;
+                border: none;
+                color: #FFFFFF;
+                text-align: center;
+                font-size: 15px;
+                padding: 10px;
+                width: 150px;
+                transition: all 0.5s;
+                cursor: pointer;
+                margin: 5px;
+              }
+
+              .button span {
+                cursor: pointer;
+                display: inline-block;
+                position: relative;
+                transition: 0.5s;
+              }
+
+              .button span:after {
+                content: '\00bb';
+                position: absolute;
+                opacity: 0;
+                top: 0;
+                right: -20px;
+                transition: 0.5s;
+              }
+
+              .button:hover span {
+                padding-right: 25px;
+              }
+
+              .button:hover span:after {
+                opacity: 1;
+                right: 0;
+              }
+
+            
+            </style>
+
+
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="js/bootstrap.min.js"></script>
+
+
+          </head>
+
+    
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-custom static-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+              <img src="logo/logo_white.png" alt="" width="15%" >
+            </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home
+                    <span class="sr-only">(current)</span>
+                  </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Portforlio</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+
+    <body >
+      
+  <!--
+      <div class=" jumbotron-fluid">
+      <div class="container">
+        <div class="row">
+        
+        
+        </div>
+        
+          <div class="col">
+            <h1 class="display-2">Make Your Product Happen</h1>
+          <p class="lead"style="color:#B22222">We are development & design agency working with top tech companies & organizations in Sri Lanka.</p>
+          </div>
+        </div>
+      </div>
+      
+      </div>
+
+
+      
+    -->
+
+
+      <div id = "main-tile">
+        <h1 class="display-2" style="color:aliceblue">Make Your Product Happen</h1>
+          <center><p class="lead"style="color:#b30000"><b>We are development & design agency working with top tech companies & organizations in Sri Lanka.</b></p></center>
+          <center><a href="#about"<button class="button" style="vertical-align:middle"><span>Learn More! </span></button></center></a>
+          
+      </div>
+
+
+      <div class="scroll-downs">
+        <div class="mousey">
+          <div class="scroller"></div>
+        </div>
+      </div>
+
+
+           
+
+    </body>
+
+</html>
