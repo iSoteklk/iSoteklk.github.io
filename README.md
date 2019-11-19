@@ -121,7 +121,7 @@ Project Link: [https://github.com/iSoteklk/iSoteklk.github.io](https://github.co
 [issues-shield]: https://img.shields.io/github/issues/iSoteklk/iSoteklk.github.io.svg?style=flat-square
 [issues-url]: https://github.com/iSoteklk/iSoteklk.github.io/issues
 [license-shield]: https://img.shields.io/github/license/iSoteklk/iSoteklk.github.io.svg?style=flat-square
-[license-url]: https://github.com/kaweendras/iSoteklk.github.io/blob/master/LICENSE
+[license-url]: https://github.com/isoteklk/isoteklk.github.io/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
 
 
