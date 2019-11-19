@@ -36,8 +36,7 @@
 
 ![Product Name Screen Shot](logo/Untitled.jpg)
 
-This web page is used as my private portfolio in github pages.
-
+This is the official web page of iSotek Software Solutions
 
 
 ### Built With
