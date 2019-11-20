@@ -96,7 +96,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE` for more informa
 ## Contact
 
 [![Social](https://img.shields.io/twitter/follow/isotek_lk?style=social)](https://twitter.com/intent/follow?screen_name=isotek_lk) - contact.isotek@gmail.com </br>
-[![Social](https://img.shields.io/twitter/follow/Dear__spider?style=social)](https://twitter.com/intent/follow?screen_name=Dear__spider) - salithak1@gmail.com </br>
+[![Social](https://img.shields.io/twitter/follow/Dear__spider?style=social)](https://twitter.com/intent/follow?screen_name=Dear__spider) - salithak1@gmail.com(Developer) </br>
 Project Link: [https://github.com/iSoteklk/iSoteklk.github.io](https://github.com/iSoteklk/iSoteklk.github.io)
 
 
