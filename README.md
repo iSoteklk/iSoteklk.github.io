@@ -36,8 +36,7 @@
 
 ![Product Name Screen Shot](logo/Untitled.jpg)
 
-This web page is used as my private portfolio in github pages.
-
+This is the official web page of iSotek Software Solutions
 
 
 ### Built With
@@ -101,7 +100,10 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE` for more informa
 Project Link: [https://github.com/iSoteklk/iSoteklk.github.io](https://github.com/iSoteklk/iSoteklk.github.io)
 
 
-
+<p align="center">
+  <img  src="logo/logo.png" width="20%">
+ </br>iSotek Software Solutions </br> 2019/20
+</p>
 
 
 
@@ -119,7 +121,7 @@ Project Link: [https://github.com/iSoteklk/iSoteklk.github.io](https://github.co
 [issues-shield]: https://img.shields.io/github/issues/iSoteklk/iSoteklk.github.io.svg?style=flat-square
 [issues-url]: https://github.com/iSoteklk/iSoteklk.github.io/issues
 [license-shield]: https://img.shields.io/github/license/iSoteklk/iSoteklk.github.io.svg?style=flat-square
-[license-url]: https://github.com/iSoteklk/iSoteklk.github.ioblob/master/LICENSE.txt
+[license-url]: https://github.com/isoteklk/isoteklk.github.io/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
 
 
