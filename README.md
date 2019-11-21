@@ -102,7 +102,7 @@ Project Link: [https://github.com/iSoteklk/iSoteklk.github.io](https://github.co
 
 <p align="center">
   <img  src="logo/logo.png" width="20%">
- </br>iSotek Software Solutions </br> 2019/20
+ </br>iSotek Software Solutions (Pvt) Ltd. </br> 2019/20
 </p>
 
 
