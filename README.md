@@ -36,7 +36,7 @@
 
 ![Product Name Screen Shot](logo/Untitled.jpg)
 
-This is the official web page of iSotek Software Solutions
+This is the official web page of iSotek Software Solutions (Pvt) Ltd.
 
 
 ### Built With
